@@ -1,0 +1,21 @@
+.main-container {
+    margin-left: 40vh; 
+    margin-right: 40vh;
+}
+.accroche {
+text-align: center; 
+font-style: italic;
+
+}
+
+.bio-log {
+    display: flex;
+}
+
+.logo {
+    width: 100vh;
+    justify-content: left;
+    border: solid;
+    margin-left: 57vh;
+    text-align: center;
+}
